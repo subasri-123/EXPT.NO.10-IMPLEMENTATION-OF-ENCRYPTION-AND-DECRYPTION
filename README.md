@@ -108,6 +108,8 @@ printf("%c",m[i]);
 
 
 # OUTPUT:
+![WhatsApp Image 2025-11-18 at 20 28 42_82b21656](https://github.com/user-attachments/assets/f7c7e887-2629-4a0c-b317-9b31ba77ff5c)
+
 
  
 
